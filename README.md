@@ -1,4 +1,4 @@
-<img width="1652" height="951" alt="image" src="https://github.com/user-attachments/assets/8feb6dc9-c522-427b-897e-6fc2dcf78856" />
+<img width="1184" height="943" alt="image" src="https://github.com/user-attachments/assets/d1cdd46a-73db-42f4-93b5-a9cc40fa770f" />
 <!-- DIM & DAN HOMES CRM README -->
 <div align="center">
 
